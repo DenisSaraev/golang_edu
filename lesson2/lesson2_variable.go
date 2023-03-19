@@ -2,6 +2,10 @@ package main
 
 import "fmt"
 
+/*
+go run .\lesson2\lesson2_variables.go
+*/
+
 const hello3 = "You can't change me"
 
 func main() {

@@ -2,10 +2,6 @@ package main
 
 import "fmt"
 
-/*
-go run .\lesson2_func.go
-*/
-
 func main() {
 	Greet()
 	PersonGreet("Denis")
